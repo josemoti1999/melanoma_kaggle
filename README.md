@@ -30,5 +30,5 @@
   <li>Ensembling the base models.
     <ul>
       <li>Light Gradient Boosting with Bayesian optimization. 
-        See notebook <a href='https://github.com/josemoti1999/melanoma_kaggle/blob/master/Triple_Stratified_KFold_with_TFRecords_Colab.ipynb'>here</a></li>
+        See notebook <a href='https://github.com/josemoti1999/melanoma_kaggle/blob/master/melanoma-ligthgbm-stack.ipynb'>here</a></li>
   
